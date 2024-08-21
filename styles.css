@@ -1,0 +1,42 @@
+body {
+  background-image: radial-gradient(#c3bbf2, #F3F3F3);
+ color: #2E3B55;
+}
+
+h1, h2, h3, h4 {
+    font-family: "New Amsterdam", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+    font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+li {
+  list-style-type: none;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 20vw 8vw;
+  box-shadow: 0 0 30px 5px rgba(0, 0, 0, 0.5);
+}
+
+#img-caption {
+  margin-top:1%;
+      font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
